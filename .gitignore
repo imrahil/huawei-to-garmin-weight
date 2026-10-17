@@ -1,0 +1,12 @@
+# Personal health data must never be committed.
+out/
+huawei-export/
+*.fit
+*.csv
+*.json
+*.xlsx
+*.xls
+
+.venv/
+__pycache__/
+*.pyc
